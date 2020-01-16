@@ -1,0 +1,23 @@
+{
+ "ai_model_id": "",
+ "model_type": "classification",
+ "model_id": "model_123_LogisticRegression",
+ "model_name": "LogisticRegression",
+ "target_value": "Sex",
+ "param": {},
+ "model_score": {
+  "accuracy": 0.6666666666666666,
+  "f1_score": " ",
+  "roc_auc": " "
+ },
+ "pipeline": [],
+ "text_encoding": {},
+ "features": [
+  "CUSTOMER_KEY",
+  "CUSTOMER_TYPE",
+  "FIRSTNAME_ENG",
+  "GBI",
+  "LASTNAME_ENG"
+ ],
+ "datanextId": "123"
+}
